@@ -1,0 +1,1 @@
+No real-world well or remote-sensing data is included. The synthetic dataset is generated in memory by `src/model.py` with a fixed random seed.
